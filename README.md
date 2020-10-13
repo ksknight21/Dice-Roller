@@ -1,6 +1,6 @@
 # Dice-Roller
 
-#Description
+# Description
 A simple dice roller application for multiple players
 
-#Startup Instructions
+# Startup Instructions
